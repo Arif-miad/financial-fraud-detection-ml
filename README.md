@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Arif-miad/financial-fraud-detection-ml/blob/main/fradetection.PNG">
+  
+</p>
 
 
 ---
